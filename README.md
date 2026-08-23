@@ -111,15 +111,15 @@ vendor-performance-analysis/
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
-•	Largest overall trading volume: 2015-08-24, with ~4.61 billion shares traded across all stocks — this coincides with the global "Black Monday" market sell-off.
-•	Volume by day of week: Friday sees the highest average volume (~2.19B shares/day); Monday sees the lowest (~1.99B shares/day). Tuesday–Thursday fall in between, fairly close together.
-•	AMZN's most volatile day: 2017-06-09, with a high−low spread of ~$85.99 — its largest single-day price range in the dataset.
-•  Best stock to buy-and-hold (1/2/2014 → 12/29/2017): NVDA (Nvidia), with a gain of ~1,120%. It far outpaced the next-best performers (AVGO ~388%, EA ~360%, ALGN ~290%).
+- Largest overall trading volume: 2015-08-24, with ~4.61 billion shares traded across all stocks — this coincides with the global "Black Monday" market sell-off.
+- Volume by day of week: Friday sees the highest average volume (~2.19B shares/day); Monday sees the lowest (~1.99B shares/day). Tuesday–Thursday fall in between, fairly close together.
+- AMZN's most volatile day: 2017-06-09, with a high−low spread of ~$85.99 — its largest single-day price range in the dataset.
+- Best stock to buy-and-hold (1/2/2014 → 12/29/2017): NVDA (Nvidia), with a gain of ~1,120%. It far outpaced the next-best performers (AVGO ~388%, EA ~360%, ALGN ~290%).
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Kartik Lokare**  
 Data Analyst  
-📧 Email: [kartiklokare8@gmali.com](kartiklokare8@gmali.com)
-🔗 [LinkedIn](linkedin.com/in/kartik-lokare-5521a7395)  
+- 📧 Email: [kartiklokare8@gmali.com](kartiklokare8@gmali.com)
+- 🔗 [LinkedIn](linkedin.com/in/kartik-lokare-5521a7395)  
