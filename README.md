@@ -13,7 +13,7 @@ _Analyze S&P 500 Stock Companies Performance , largest overall trading volume, v
 - <a href="#project-structure">Project Structure</a>
 
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
-- <a href="#questions">Research Questions & Key Findings</a>
+- <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
