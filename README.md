@@ -50,7 +50,7 @@ This project addresses the challenge investors and analysts face when trying to 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
-vendor-performance-analysis/
+S&P-500-Stock-performance-analysis/
 │
 ├── README.md
 ├── .gitignore
@@ -121,6 +121,6 @@ vendor-performance-analysis/
 
 **Kartik Lokare**  
 Data Analyst  
-- 📧 Email: [kartiklokare8@gmali.com](kartiklokare8@gmali.com)
+- 📧 Email: [kartiklokare8@gmali.com](kartiklokare8@gmail.com)
 - 🔗 [LinkedIn](linkedin.com/in/kartik-lokare-5521a7395)  
 - 🔗 [Portfolio](https://github.com/kleditsbat-art?tab=repositories)
